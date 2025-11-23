@@ -19,7 +19,7 @@
         <mxCell id="277yUtrvlaV0oWOQA50w-5" value="解压压缩包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="116" y="2178" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-6" target="277yUtrvlaV0oWOQA50w-8">
+        <mxCell id="277yUtrvlaV0oWOQA50w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-6" target="277yUtrvlaV0oWOQA50w-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-6" value="找到志愿者印象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -29,7 +29,7 @@
           <mxGeometry x="306" y="2178" width="71" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-8" value="作为附件与邮件发送给资助者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="342" y="2420" width="252" height="66" as="geometry" />
+          <mxGeometry x="338" y="2484" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-9" value="学生只有照片?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="658" y="1946" width="151" height="151" as="geometry" />
