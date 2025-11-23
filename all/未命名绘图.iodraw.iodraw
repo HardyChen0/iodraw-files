@@ -25,9 +25,6 @@
         <mxCell id="277yUtrvlaV0oWOQA50w-6" value="找到志愿者印象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="2294" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-7" value="G" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="2178" width="71" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-8" value="作为附件与邮件发送给资助者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="472" y="2285" width="252" height="66" as="geometry" />
         </mxCell>
@@ -65,13 +62,6 @@
         <mxCell id="277yUtrvlaV0oWOQA50w-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-5" target="277yUtrvlaV0oWOQA50w-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.03;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-7" target="277yUtrvlaV0oWOQA50w-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="341" y="2260" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-3" target="277yUtrvlaV0oWOQA50w-9">
