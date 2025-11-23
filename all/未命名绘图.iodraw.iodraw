@@ -32,7 +32,7 @@
           <mxGeometry x="338" y="2484" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-9" value="学生只有照片?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1945.5" width="151" height="151" as="geometry" />
+          <mxGeometry x="674" y="1945.5" width="151" height="151" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-10" value="编辑PDF文件，包含姓名、志愿者印象、照片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="427" y="2169" width="247" height="66" as="geometry" />
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-18" value="否" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-3" target="277yUtrvlaV0oWOQA50w-9">
+        <mxCell id="277yUtrvlaV0oWOQA50w-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-3" target="277yUtrvlaV0oWOQA50w-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="733" y="1910" />
