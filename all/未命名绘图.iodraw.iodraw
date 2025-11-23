@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-3" value="学生有志愿者印象?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="407" y="1560" width="183" height="100" as="geometry" />
+          <mxGeometry x="700" y="1694" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-4" target="277yUtrvlaV0oWOQA50w-5">
           <mxGeometry relative="1" as="geometry" />
@@ -73,6 +73,9 @@
               <mxPoint x="810" y="2133" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="277yUtrvlaV0oWOQA50w-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1710" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
