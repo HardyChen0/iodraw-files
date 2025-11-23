@@ -29,7 +29,7 @@
           <mxGeometry x="306" y="2178" width="71" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-8" value="作为附件与邮件发送给资助者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="424" y="2285" width="252" height="66" as="geometry" />
+          <mxGeometry x="342" y="2420" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-9" value="学生只有照片?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="658" y="1946" width="151" height="151" as="geometry" />
