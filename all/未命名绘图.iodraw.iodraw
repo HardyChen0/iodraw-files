@@ -8,7 +8,7 @@
           <mxGeometry x="428" y="1350" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-2" value="查看学生志愿者印象" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="402" y="1448" width="192" height="192" as="geometry" />
+          <mxGeometry x="402" y="1448" width="188" height="122" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-3" value="学生有志愿者印象?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="407" y="1691" width="183" height="183" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="116" y="2090" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-6" value="找到志愿者印象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="2294" width="172" height="48" as="geometry" />
+          <mxGeometry x="100" y="2178" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-8" value="作为附件与邮件发送给资助者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="342" y="2450" width="252" height="66" as="geometry" />
