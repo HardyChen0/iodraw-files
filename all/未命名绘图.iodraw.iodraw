@@ -29,7 +29,7 @@
           <mxGeometry x="306" y="2178" width="71" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-8" value="作为附件与邮件发送给资助者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338" y="2484" width="252" height="66" as="geometry" />
+          <mxGeometry x="472" y="2285" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-9" value="学生只有照片?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="674" y="1945.5" width="151" height="151" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="427" y="2169" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-11" value="制作人物介绍册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="724" y="2178" width="172" height="48" as="geometry" />
+          <mxGeometry x="750" y="2178" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-1" target="277yUtrvlaV0oWOQA50w-2">
           <mxGeometry relative="1" as="geometry">
