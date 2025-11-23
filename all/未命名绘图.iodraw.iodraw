@@ -20,7 +20,7 @@
           <mxGeometry x="170" y="1612" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-5" value="解压压缩包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="116" y="2090" width="140" height="48" as="geometry" />
+          <mxGeometry x="160" y="1770" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-6" value="找到志愿者印象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="2178" width="172" height="48" as="geometry" />
@@ -43,18 +43,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-2" target="277yUtrvlaV0oWOQA50w-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-3" target="277yUtrvlaV0oWOQA50w-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="186" y="1910" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="277yUtrvlaV0oWOQA50w-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="277yUtrvlaV0oWOQA50w-4" target="277yUtrvlaV0oWOQA50w-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
