@@ -17,7 +17,7 @@
           <mxGeometry x="100" y="1997" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-5" value="解压压缩包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="116" y="2178" width="140" height="48" as="geometry" />
+          <mxGeometry x="116" y="2090" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="277yUtrvlaV0oWOQA50w-6" value="找到志愿者印象" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="100" y="2294" width="172" height="48" as="geometry" />
